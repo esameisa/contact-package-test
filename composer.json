@@ -17,9 +17,7 @@
     }],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "esameisa/contact": "^1.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Esameisa\\Contact\\": "src"
