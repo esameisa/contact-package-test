@@ -1,0 +1,17 @@
+{
+    "name": "esameisa/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "esam eisa",
+        "email": "esameisa12345@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Esameisa\\Contact\\": "src"
+        }
+    }
+}
