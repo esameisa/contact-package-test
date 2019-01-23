@@ -1,5 +1,6 @@
 {
     "name": "esameisa/contact",
+    "version": "1.0.0",
     "description": "This will send email to admin and save contact query in database",
     "keywords": [
         "contact",
