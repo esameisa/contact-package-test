@@ -15,9 +15,13 @@
         "homepage": "http://esameisa.com",
         "role": "Developer"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {},
+    "require": {
+        "php" : "^5.5 || ^7.0",
+        "monolog/monolog": "1.0.1",
+        "acme/foo": "@dev"
+    },
     "autoload": {
         "psr-4": {
             "Esameisa\\Contact\\": "src"
