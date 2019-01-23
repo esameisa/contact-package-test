@@ -8,6 +8,7 @@
         "email": "esameisa12345@gmail.com"
     }],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {},
     "autoload": {
         "psr-4": {
