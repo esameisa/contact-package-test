@@ -22,5 +22,12 @@
         "psr-4": {
             "Esameisa\\Contact\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Esameisa\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
